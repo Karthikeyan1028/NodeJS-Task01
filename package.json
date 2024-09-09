@@ -3,14 +3,16 @@
   "version": "1.0.0",
   "description": "thi",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Karthikeyan1028/NodeJS-Task01.git"
   },
-  "author": "",
+  "author": "Karthikeyan",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Karthikeyan1028/NodeJS-Task01/issues"
@@ -19,5 +21,5 @@
   "dependencies": {
     "date-fns": "^3.6.0",
     "express": "^4.19.2"
-  }
+  },
 }

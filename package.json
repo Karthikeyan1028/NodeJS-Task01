@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Karthikeyan1028/NodeJS-Task01#readme",
   "dependencies": {
+    "date-fns": "^3.6.0",
     "express": "^4.19.2"
   }
 }
